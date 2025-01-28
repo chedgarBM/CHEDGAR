@@ -1,0 +1,31 @@
+body{
+    background-color:tomato;
+}
+img{
+    width: 250px;
+    height: 200;
+    border-radius: 81px;
+}
+nav{
+     background-color: pink;
+     color: honeydew;
+     text-align: center;
+}
+li{
+    list-style:none
+}
+nav ul li{
+    display:list-item;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22;    
+}
+a{
+    color:cadetblue;
+    text-decoration: none;
+}
+nav ul li a{
+    padding: 20 px;
+}
+a:hover {
+    background-color: darkviolet;
+}
